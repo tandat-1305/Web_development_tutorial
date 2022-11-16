@@ -1,0 +1,10 @@
+nav{
+/*	Sắp xếp thứ tự block */
+	display: flex;
+/*	Vị trị giữa cột*/
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 40px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
