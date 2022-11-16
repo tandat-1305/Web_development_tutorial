@@ -1,0 +1,4 @@
+https://xuanthulab.net/thiet-lap-nen-background-size-background-clip-css.html
+
+background-size: cover; 
+Phủ toàn màn hình
