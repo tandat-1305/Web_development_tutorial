@@ -1,0 +1,10 @@
+nav ul li a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+nav ul li a:hover{
+	text-decoration: none;
+	color: #F5250C;
+	transition: .3s;
+}
